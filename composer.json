@@ -1,18 +1,18 @@
 {
-    "name": "flarum/flarum",
-    "description": "Delightfully simple forum software.",
+    "name": "Dev ChitChat/Dev ChitChat",
+    "description": "A place where devs do chit chat.",
     "type": "project",
     "keywords": [
         "forum",
         "discussion"
     ],
-    "homepage": "https://flarum.org/",
+    "homepage": "https://devchitchat.logicaldevz.xyz/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Flarum",
-            "email": "info@flarum.org",
-            "homepage": "https://flarum.org/team"
+            "name": "Dev ChitChat",
+            "email": "team@logicaldevz.xyz",
+            "homepage": "team.logicaldevz.xyz"
         }
     ],
     "support": {
